@@ -1,9 +1,9 @@
-# Eksi-Bakiniz-Sayaci
+# Countries
 
-### Açıklama
-Flutter framework ile yapılmış ülkelerin genel bilgilerini gösteren cross platform mobil uygulama.
+### Description
+Cross platform mobile application showing general information of countries created with Flutter framework
 
-### Ekran Görüntüleri
+### Screenshots
 
 <img src="Screenshots/1.png" width="300"/>
 <img src="Screenshots/2.png" width="300"/>
